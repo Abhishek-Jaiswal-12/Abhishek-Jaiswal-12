@@ -43,17 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Jaiswal-12&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Jaiswal-12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek-Jaiswal-12&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🏆 Achievements & Practice
 <p align="left">
   <img src="https://img.shields.io/badge/HackerRank-C%2B%2B%203★-brightgreen?style=for-the-badge&logo=hackerrank" />
